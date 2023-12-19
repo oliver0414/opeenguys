@@ -44,7 +44,7 @@ function createVideoCard(video) {
     </div>
     <div class="details">
       <div class="views-duration">
-        <span>${video.views}</span>
+        <span>조회수 ${video.views}회</span>
         •
         <span>${video.upload_date}</span>
       </div>
